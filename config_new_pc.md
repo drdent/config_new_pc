@@ -39,16 +39,11 @@ brew install ctags
 
 brew install autojump
 
+**Tools**
 Office for Mac
-
-Adium
-
+Adium / Slack
 DBVisualizer
-
 Dropbox
-
 Virtual Box
-
 Photoshop
-
 MenuMeters
