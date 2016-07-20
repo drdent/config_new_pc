@@ -19,7 +19,7 @@ brew install git
 .gitconfig (username, email, color)
 
 
-**gitconfig**
+**git & gitconfig**
 
 git config --global andre.jaehrling "André Jährling"
 
@@ -28,6 +28,8 @@ git config --global user.email andre.jaehrling@blau.de
 git config --global alias.co checkout
 
 git config --global alias.st status
+
+https://github.com/so-fancy/diff-so-fancy
 
 
 **zsh**
