@@ -16,8 +16,6 @@ brew install macvim
 
 brew install git
 
-.gitconfig (username, email, color)
-
 
 **git & gitconfig**
 
