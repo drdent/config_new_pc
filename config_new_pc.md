@@ -42,6 +42,8 @@ homesick symlink zsh\_config
 
 iterm profil command /usr/local/bin/zsh
 
+cd zsh_config && sh relink_dotfiles.sh
+
 
 **mac vim**
 
