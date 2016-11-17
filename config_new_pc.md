@@ -1,4 +1,4 @@
-**neuen Rechner aufsetzen**
+**Neuen Mac aufsetzen**
 ---------------------------
 
 Firefox installieren
