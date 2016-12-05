@@ -16,6 +16,12 @@ brew install macvim
 
 brew install git
 
+brew install the_silver_searcher
+
+brew install mr
+
+brew install slate
+
 
 **git & gitconfig**
 
@@ -26,6 +32,8 @@ git config --global user.email andre.jaehrling@blau.de
 git config --global alias.co checkout
 
 git config --global alias.st status
+
+git config --global rebase.autosquash true
 
 https://github.com/so-fancy/diff-so-fancy
 
