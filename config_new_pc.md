@@ -6,6 +6,8 @@ Firefox installieren
 iterm2 installieren:
 [*https://www.iterm2.com/*](https://www.iterm2.com/)
 
+SSH Key generieren
+
 homebrew installieren: [*http://brew.sh/*](http://brew.sh/)
 
 brew install rbenv ruby-build
