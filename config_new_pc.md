@@ -24,6 +24,8 @@ brew install mr
 
 brew install slate
 
+npm install node
+
 
 **git & gitconfig**
 
@@ -57,7 +59,7 @@ cd zsh_config && sh relink_dotfiles.sh
 
 **mac vim**
 
-homesick clone drdent/vim\_config
+homesick clone thenoseman/vim\_config
 
 homesick symlink vim\_config
 
