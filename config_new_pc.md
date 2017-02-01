@@ -29,7 +29,7 @@ brew install slate
 
 git config --global andre.jaehrling "André Jährling"
 
-git config --global user.email andre.jaehrling@blau.de
+git config --global user.email xxx
 
 git config --global alias.co checkout
 
