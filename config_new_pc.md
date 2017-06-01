@@ -22,7 +22,7 @@ brew install the_silver_searcher
 
 brew install mr
 
-brew install slate
+brew cask install slate
 
 npm install node
 
