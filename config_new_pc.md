@@ -22,10 +22,13 @@ brew install the_silver_searcher
 
 brew install mr
 
-brew cask install slate
+install [*slate*](https://github.com/jigish/slate)
 
 npm install node
 
+brew install ctags
+
+brew install autojump
 
 **git & gitconfig**
 
@@ -39,7 +42,7 @@ git config --global alias.st status
 
 git config --global rebase.autosquash true
 
-https://github.com/so-fancy/diff-so-fancy
+[*https://github.com/so-fancy/diff-so-fancy*](https://github.com/so-fancy/diff-so-fancy)
 
 
 **zsh**
@@ -65,23 +68,15 @@ homesick symlink vim\_config
 
 cd vimconfig && git submodule update --init --recursive
 
-brew install ctags
-
-brew install autojump
-
 
 **Tools**
 
 Office for Mac
 
-Adium / Slack
+Massenger
 
 DBVisualizer
 
-Dropbox
-
 Virtual Box
-
-Photoshop
 
 MenuMeters
