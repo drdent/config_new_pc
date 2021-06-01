@@ -1,8 +1,6 @@
 **Neuen Mac aufsetzen**
 ---------------------------
 
-Firefox installieren
-
 iterm2 installieren:
 [*https://www.iterm2.com/*](https://www.iterm2.com/)
 
