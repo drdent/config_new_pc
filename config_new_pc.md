@@ -20,8 +20,6 @@ brew install the_silver_searcher
 
 brew install mr
 
-install [*slate*](https://github.com/jigish/slate)
-
 npm install node
 
 brew install ctags
@@ -68,6 +66,7 @@ cd vimconfig && git submodule update --init --recursive
 
 
 **Tools**
+[*Hammerspoon*](http://www.hammerspoon.org/)
 
 Office for Mac
 
