@@ -12,8 +12,6 @@ brew install rbenv ruby-build
 
 xcode-select --install
 
-brew install macvim
-
 brew install git
 
 brew install the_silver_searcher
@@ -21,8 +19,6 @@ brew install the_silver_searcher
 brew install mr
 
 npm install node
-
-brew install ctags
 
 brew install autojump
 
@@ -57,6 +53,10 @@ cd zsh_config && sh relink_dotfiles.sh
 
 
 **mac vim**
+
+brew install macvim
+
+brew install ctags
 
 homesick clone thenoseman/vim\_config
 
