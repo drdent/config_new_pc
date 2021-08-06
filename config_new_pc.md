@@ -10,6 +10,7 @@
 - [ ] brew install the_silver_searcher
 - [ ] brew install mr
 - [ ] brew install autojump
+- [ ] brew install broot
 
 **zsh**
 
