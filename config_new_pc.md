@@ -11,6 +11,8 @@
 - [ ] brew install mr
 - [ ] brew install autojump
 - [ ] brew install broot
+- [ ] brew install fzf
+- [ ] source ~/.fzf.zsh
 
 **zsh**
 
